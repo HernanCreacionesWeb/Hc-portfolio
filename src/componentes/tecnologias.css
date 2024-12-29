@@ -1,0 +1,45 @@
+.contenedor-gral{
+    background-image: -webkit-radial-gradient(circle, white, rgb(87, 87, 87));
+    margin: 0% !important;
+    padding: 1% !important;
+     
+    
+
+}
+ .cont{
+ width: 80% !important;
+ margin: 0 auto;
+ padding-top: 0.5% !important; /* Reduce el padding superior */
+    padding-bottom: 0.5% !important;
+ }
+
+.iconos{
+    width: 100%;
+    height: 70px;
+}
+ul{
+    list-style: none !important;
+    display: flex;
+    
+}
+
+li {
+    list-style: none; /* Asegura que las viñetas no se muestren */
+    flex: 1 1 20%; /* Hace que cada elemento ocupe el 20% del ancho del contenedor */
+    box-sizing: border-box; /* Incluye el padding y border en el ancho y alto total del elemento */
+}
+
+
+
+
+@media (max-width: 600px) {
+    ul{
+        list-style: none !important;
+        display: flex;
+        flex-wrap: wrap; /* Permite que los elementos se envuelvan */
+    }
+
+    li {
+        flex: 1 1 20%; /* Cada elemento ocupará el 20% del ancho del contenedor en pantallas pequeñas */
+    }
+}

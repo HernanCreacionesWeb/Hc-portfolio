@@ -1,0 +1,25 @@
+.custom-card {
+  width: 18rem;  
+  padding: 0;  
+ 
+background: linear-gradient(90deg, rgb(41, 41, 44) 0%, rgb(92, 92, 228) 35%, rgba(0,212,255,1) 100%);
+}
+
+.custom-img {
+  width: 100%;
+  height: auto;
+  padding: 10px;  
+}
+
+.custom-body {
+  padding: 10px 10px 5px 10px;  
+}
+.contenedor-cards{
+    display: flex;
+}
+.disponible-card{
+    width: 18rem;  
+    padding: 0;  
+   
+  background: linear-gradient(90deg, rgb(230, 167, 148) 0%, rgb(231, 158, 135) 35%, rgb(250, 47, 12) 100%);
+}

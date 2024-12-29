@@ -1,0 +1,23 @@
+h1{
+    color: rgb(243, 243, 243) !important;
+}
+
+h5{
+    color: rgb(243, 243, 243) !important;
+}
+
+.letters{
+    color: rgb(243, 243, 243);
+
+}
+
+.form-control{
+    background-color: rgb(202, 249, 255);
+}
+
+.modal-title{
+    color: royalblue !important;
+}
+.message-text {
+    color: black;
+  }
