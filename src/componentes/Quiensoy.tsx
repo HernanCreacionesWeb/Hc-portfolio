@@ -12,9 +12,9 @@ export const Quiensoy = () => {
           </div>
           <div className="col-md-8 ">
             <div className="card-body  ">
-              <h3 className="card-title ">Quien soy</h3>
+              <h3 className="card-title ">Sobre mi</h3>
               <p className="card-text parraf ">Hola, soy Hernán un apasionado de la ciencia y tecnología. Con esfuerzo he ido adquiriendo conocimientos y herramientas para poder realizar páginas web, tanto en diseño como en desarrollo.
-                Te invito a recorrer el sitio y si te interesa podemos comunicarnos</p>
+                Te invito a recorrer el sitio y si te interesa podemos comunicarnos.</p>
 
             </div>
           </div>
